@@ -9,10 +9,10 @@
 
 ### **使用以下命令运行脚本**
 
-**快捷命令：sb**
+**快捷命令：hy2**
 
 ```
-(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -o /usr/local/bin/sb || wget -q https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -O /usr/local/bin/sb) && chmod +x /usr/local/bin/sb && sb
+(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/Hysteria-2/main/hy2.sh -o /usr/local/bin/hy2 || wget -q https://raw.githubusercontent.com/0xdabiaoge/Hysteria-2/main/hy2.sh -O /usr/local/bin/hy2) && chmod +x /usr/local/bin/hy2 && hy2
 ```
 
 ## **免责声明**
